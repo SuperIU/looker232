@@ -16,7 +16,7 @@ view: derived_view {
   dimension: department {
     description: ""
   }
-  dimension: count {
+  measure: count {
     description: ""
     type: number
   }
