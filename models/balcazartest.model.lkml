@@ -55,3 +55,6 @@ explore: order_items {
 }
 
 explore: users {}
+
+
+explore: derived_view {}
