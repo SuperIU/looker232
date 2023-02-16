@@ -11,7 +11,7 @@ view: derived_view {
     }
   }
   dimension: category {
-    description: ""
+    description: " "
   }
   dimension: department {
     description: ""
